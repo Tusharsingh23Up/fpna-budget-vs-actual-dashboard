@@ -1,0 +1,13 @@
+{
+  "total_budget_revenue": 14474470.0,
+  "total_actual_revenue": 14634571.0,
+  "revenue_variance": 160101.0,
+  "revenue_variance_pct": 0.011060923128791589,
+  "total_budget_operating_profit": 4171342.0,
+  "total_actual_operating_profit": 4210653.0,
+  "profit_variance": 39311.0,
+  "actual_operating_margin": 0.2877196058565707,
+  "best_month": "Dec-2025",
+  "worst_variance_month": "Jun-2025",
+  "avg_monthly_revenue_growth": 0.0633442420580102
+}
